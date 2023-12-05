@@ -1,7 +1,9 @@
-## Vibhor's Portfolio H 
+## Vibhor's Portfolio Homepage
 
 
 This is my home page! My name is Vibhor Bhargava and I am a student at Cal State Fullerton and my major is Computer Science.
+
+My GitHub page is http://github.com/vibhorbh.
 
 ## CPSC Lab 120 2023
 
