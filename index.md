@@ -1,4 +1,4 @@
-## Vibhor's Portfolio 
+## Vibhor's Portfolio H 
 
 
 This is my home page! My name is Vibhor Bhargava and I am a student at Cal State Fullerton and my major is Computer Science.
@@ -14,5 +14,5 @@ lab-8 part-1 is one of my favorite programs because I was able to learn how to u
 
 *lab-9 part-2
 
-lab-9 part-2 was a personal favorite to me because, I had been curious for some time about the working of the compare functions. This program was the first time where I actually felt that the compare function needed to be applied to compare the 2 schedules and find the smaller one of the both. Its also a favorite because it uses 2 of my favorite functions i.e., if-statements and user input functions (cin).
+lab-9 part-2 was a personal favorite to me because, I had been curious for some time about the working of the compare functions. This program was the first time where I actually felt that the compare function needed to be applied to compare the 2 schedules and find the smaller one of the both. Its also a favorite because it uses 2 of my favorite functions i.e., if-statements and user input functions.
 
